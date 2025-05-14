@@ -154,22 +154,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
 }
 
-@media (max-width: 991px) {
-    .hero-title {
-        font-size: 3.5rem;
-    }
 
-    .hero-content {
-        text-align: center;
-    }
-    .hero-text {
-        margin-left: auto;
-        margin-right: auto;
-    }
-    .hero-section .d-flex {
-        justify-content: center;
-    }
-}
 
 .services-section {
     position: relative;
