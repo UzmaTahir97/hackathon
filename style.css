@@ -201,18 +201,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #5E6282;
 }
 
-.plus-pattern {
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    width: 150px;
-    height: 150px;
-    background-image: url('./assets/images/plus-pattern.png');
-    background-repeat: no-repeat;
-    background-size: contain;
-    z-index: 0;
-    opacity: 0.7;
-}
+
 
 .destinations-section {
     padding-bottom: 5rem;
