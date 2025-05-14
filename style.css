@@ -468,19 +468,6 @@ h1, h2, h3, h4, h5, h6 {
     z-index: 3;
 }
 
-.plus-pattern-subscribe {
-    position: absolute;
-    bottom: 10px;
-    left: 10px;
-    width: 100px;
-    height: 100px;
-    background-image: url('./assets/images/plus-pattern-subscribe.png');
-    background-repeat: no-repeat;
-    background-size: contain;
-    opacity: 0.3;
-    z-index: 1;
-}
-
 @media (max-width: 768px) {
     .subscribe-title {
         font-size: 1.5rem;
