@@ -409,35 +409,7 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 10px;
 }
 
-.subscribe-bg-elements {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 1;
-}
 
-.subscribe-circle-2 {
-    position: absolute;
-    bottom: -80px;
-    right: -80px;
-    width: 250px;
-    height: 250px;
-    background-color: #D5AFFF;
-    border-radius: 50%;
-    opacity: 0.07;
-}
-
-.subscribe-plane-icon {
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    width: 70px;
-    height: auto;
-    transform: rotate(10deg);
-    z-index: 3;
-}
 
 @media (max-width: 768px) {
     .subscribe-title {
@@ -447,11 +419,7 @@ h1, h2, h3, h4, h5, h6 {
         border-radius: 20px;
         padding: 2rem !important;
     }
-    .subscribe-plane-icon {
-        top: 10px;
-        right: 10px;
-        width: 50px;
-    }
+  
 }
 
 .footer-section {
