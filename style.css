@@ -322,19 +322,6 @@ h1, h2, h3, h4, h5, h6 {
 .text-purple { color: #8A79DF; }
 .bg-purple { background-color: #8A79DF; }
 
-@media (max-width: 991px) {
-    .ongoing-trip-card {
-        position: static;
-        margin-top: 1.5rem;
-        right: auto;
-        left: 50%;
-        transform: translateX(-50%);
-    }
-}
-
-.testimonials-section {
-    overflow-x: clip;
-}
 
 .testimonial-dots .dot {
     display: inline-block;
@@ -395,17 +382,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #3E2E4D;
 }
 
-@media (max-width: 991px) {
-    .testimonial-card {
-        margin-top: 3rem;
-    }
-    .testimonial-nav-arrows {
-        position: static;
-        flex-direction: row;
-        justify-content: center;
-        margin-top: 1rem;
-    }
-}
+
 
 .partner-logo {
     max-height: 30px;
