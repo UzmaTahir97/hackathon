@@ -6,7 +6,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Volkhov', serif;
+    font-family:  serif;
     color: #181E4B;
 }
 
@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section-main-title {
-    font-family: 'Volkhov', serif;
+    font-family:  serif;
     font-weight: 700;
     color: #14183E;
     font-size: 3.125rem;
@@ -281,35 +281,6 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
 }
-
-.trip-icon {
-    width: 36px;
-    height: 36px;
-    padding: 8px;
-    background-color: #F0F0F0;
-    border-radius: 50%;
-}
-
-.ongoing-trip-card {
-    position: absolute;
-    bottom: 30px;
-    right: -50px;
-    background-color: white;
-    border-radius: 18px;
-    padding: 1rem;
-    width: 260px;
-    z-index: 10;
-}
-
-.ongoing-trip-img {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    object-fit: cover;
-}
-
-.text-purple { color: #8A79DF; }
-.bg-purple { background-color: #8A79DF; }
 
 
 .testimonial-dots .dot {
