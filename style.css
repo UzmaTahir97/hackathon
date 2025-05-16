@@ -315,7 +315,13 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #181E4B;
 }
 
+ .testimonials-section {
+    overflow-x: clip;
+ }  
+
 .testimonial-card {
+    position: relative;
+    z-index:1
     border: none;
     border-radius: 10px;
     background-color: #fff;
